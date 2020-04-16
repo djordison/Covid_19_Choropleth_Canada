@@ -1,6 +1,8 @@
 # Covid_19_Choropleth_Canada
 
-The goal of this project was to generate choropleths of the spread of Covid-19 in Canada as of 2020/04/16. 
+## Goal
+
+Generate choropleths of the spread of Covid-19 in Canada as of 2020/04/16 for educational purposes. There is no intention of distribution.
 
 This repository included the working jupyter notebook as well as .csv files: mortality data, infection data, relational data for health regions, source .shp files and associated records.
 
