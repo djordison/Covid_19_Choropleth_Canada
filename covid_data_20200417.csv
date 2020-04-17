@@ -1,0 +1,92 @@
+,health_region,province,CV19_infections,CV19_deaths
+0,Abitibi-Témiscamingue,Quebec,140.0,2.0
+1,Algoma,Ontario,11.0,0.0
+2,Bas-Saint-Laurent,Quebec,34.0,1.0
+3,Brant,Ontario,68.0,1.0
+4,Calgary,Alberta,1242.0,32.0
+5,Capitale-Nationale,Quebec,551.0,20.0
+6,Central,Alberta,74.0,1.0
+7,Central,NL,8.0,0.0
+8,Central,Saskatchewan,10.0,0.0
+9,Chatham-Kent,Ontario,25.0,1.0
+10,Chaudière-Appalaches,Quebec,293.0,6.0
+11,Côte-Nord,Quebec,101.0,0.0
+12,Durham,Ontario,496.0,37.0
+13,Eastern,NL,234.0,3.0
+14,Eastern,Ontario,65.0,0.0
+15,Edmonton,Alberta,402.0,7.0
+16,Estrie,Quebec,751.0,41.0
+17,Far North,Saskatchewan,7.0,0.0
+18,Fraser,BC,630.0,14.0
+19,Gaspésie-Îles-de-la-Madeleine,Quebec,103.0,6.0
+20,Grey Bruce,Ontario,44.0,0.0
+21,Haldimand-Norfolk,Ontario,152.0,22.0
+22,Haliburton Kawartha Pineridge,Ontario,130.0,33.0
+23,Halton,Ontario,350.0,11.0
+24,Hamilton,Ontario,306.0,11.0
+25,Hastings Prince Edward,Ontario,27.0,1.0
+26,Huron Perth,Ontario,35.0,3.0
+27,Interior,BC,149.0,1.0
+28,Interlake-Eastern,Manitoba,19.0,0.0
+29,Island,BC,94.0,2.0
+30,Kingston Frontenac Lennox & Addington,Ontario,55.0,0.0
+31,Labrador-Grenfell,NL,6.0,0.0
+32,Lambton,Ontario,128.0,11.0
+33,Lanaudière,Quebec,1140.0,28.0
+34,Laurentides,Quebec,727.0,4.0
+35,Laval,Quebec,1620.0,95.0
+36,Leeds Grenville and Lanark,Ontario,244.0,28.0
+37,Mauricie,Quebec,891.0,54.0
+38,Middlesex-London,Ontario,258.0,14.0
+39,Montréal,Quebec,7281.0,332.0
+40,Montérégie,Quebec,1807.0,26.0
+41,NWT,NWT,5.0,0.0
+42,Niagara,Ontario,320.0,26.0
+43,Nord-du-Québec,Quebec,7.0,0.0
+44,North,Alberta,107.0,6.0
+45,North,Saskatchewan,58.0,0.0
+46,North Bay Parry Sound,Ontario,12.0,0.0
+47,Northern,BC,32.0,0.0
+48,Northern,Manitoba,3.0,0.0
+49,Northwestern,Ontario,11.0,0.0
+53,Nunavik,Quebec,13.0,0.0
+54,Ottawa,Ontario,678.0,14.0
+55,Outaouais,Quebec,191.0,0.0
+56,Peel,Ontario,1219.0,31.0
+57,Peterborough,Ontario,53.0,1.0
+58,Porcupine,Ontario,45.0,2.0
+59,Prairie Mountain,Manitoba,12.0,1.0
+60,Prince Edward Island,PEI,26.0,0.0
+61,Regina,Saskatchewan,68.0,1.0
+62,Renfrew,Ontario,14.0,1.0
+63,Saguenay,Quebec,202.0,6.0
+64,Saskatoon,Saskatchewan,147.0,0.0
+65,Simcoe Muskoka,Ontario,174.0,12.0
+66,South,Alberta,36.0,0.0
+67,South,Saskatchewan,15.0,0.0
+68,Southern Health,Manitoba,28.0,0.0
+69,Southwestern,Ontario,41.0,3.0
+70,Sudbury,Ontario,41.0,1.0
+71,Terres-Cries-de-la-Baie-James,Quebec,5.0,0.0
+72,Thunder Bay,Ontario,46.0,0.0
+73,Timiskaming,Ontario,10.0,0.0
+74,Toronto,Ontario,2881.0,147.0
+75,Vancouver Coastal,BC,670.0,42.0
+76,Waterloo,Ontario,383.0,17.0
+77,Wellington Dufferin Guelph,Ontario,169.0,8.0
+78,Western,NL,4.0,0.0
+79,Windsor-Essex,Ontario,427.0,18.0
+80,Winnipeg,Manitoba,188.0,4.0
+81,York,Ontario,905.0,45.0
+82,Yukon,Yukon,8.0,0.0
+83,Zone 1 (Moncton area),New Brunswick,22.0,0.0
+84,Zone 1 - Western,Nova Scotia,3.0,0.0
+85,Zone 2 (Saint John area),New Brunswick,26.0,0.0
+86,Zone 2 - Northern,Nova Scotia,1.0,0.0
+87,Zone 3 (Fredericton area),New Brunswick,47.0,0.0
+88,Zone 3 - Eastern,Nova Scotia,4.0,2.0
+89,Zone 4 (Edmundston area),New Brunswick,7.0,0.0
+90,Zone 4 - Central,Nova Scotia,61.0,1.0
+91,Zone 5 (Campbellton area),New Brunswick,12.0,0.0
+92,Zone 6 (Bathurst area),New Brunswick,1.0,0.0
+93,Zone 7 (Miramichi area),New Brunswick,2.0,0.0
