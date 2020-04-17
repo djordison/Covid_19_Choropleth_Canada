@@ -24,3 +24,6 @@ Reporting of cases for the 3 health regions of the Fraser Valley area, as well a
 
 Data was sourced from https://github.com/ishaberry/Covid19Canada (accessed 2020/04/15)
   
+## Update 2020/04/17
+
+Feature addition: Pull most recent case data from Github source, generate new cleansed combined file, auto-save local datestamped copy. Generated choropleths from most recent data, auto-save local datestamped copies.
